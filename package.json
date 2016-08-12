@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sincu/leveldb-intro/issues"
   },
-  "homepage": "https://github.com/sincu/leveldb-intro#readme"
+  "homepage": "https://github.com/sincu/leveldb-intro#readme",
+  "dependencies": {
+    "level": "^1.4.0"
+  }
 }
